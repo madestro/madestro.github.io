@@ -310,6 +310,16 @@ a.github {
 	background: url(../images/octocat-small.png) no-repeat 1px;
 }
 
+a.twitter
+         {
+        background: url(../images/logotwitter.png) no-repeat 1px;
+}
+
+a.bandcamp
+         {
+        background: url(../images/bc.png) no-repeat 1px;
+}
+
 a.buttons:hover {
 	color: #fff;
 	text-decoration: none;
